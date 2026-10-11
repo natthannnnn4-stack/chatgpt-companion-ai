@@ -1,0 +1,13 @@
+{
+"name": "chatgpt-companion-ai",
+"version": "1.0.0",
+"private": true,
+"description": "Minecraft Bedrock AI Companion",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"engines": {
+"node": ">=20"
+}
+}
